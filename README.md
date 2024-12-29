@@ -10,9 +10,7 @@ Develop a municipal management application.
 The product must be validated by the instructors.
 
 ## Development Requirements
-The application must be developed using Java.
-The database must use Oracle.
-The project must follow an Agile (SCRUM) methodology, with progress tracked through a remote project management tool shared with the instructor.
+The application will be developed using Java, with Oracle as the database. The project will adhere to the Agile (SCRUM) methodology, ensuring progress is monitored via a remote project management tool shared with the instructor.
 
 ## Agile Workflow
 The project consists of 3 sprints, each lasting 2 weeks.
